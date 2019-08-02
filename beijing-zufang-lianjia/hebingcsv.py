@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 '''
-Data:2017-07-13
-Auther;JXNU Kerwin
 Description:使用Pandas拼接多个CSV文件到一个文件（即合并）
 '''
 import pandas as pd
